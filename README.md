@@ -1,6 +1,6 @@
 # My React Portfolio
 
-Welcome to my portfolio! This project showcases my skills and experience in web development and design. It includes various sections that highlight my professional background, projects, and ways to connect with me.
+Welcome to my portfolio! This project showcases my skills and experience in java backend development. It includes various sections that highlight my professional background, projects, and ways to connect with me.
 
 ## 🚀 Features
 
@@ -49,7 +49,7 @@ I welcome contributions from fellow developers! Here's how you can contribute:
 1. **Fork the Repository**: Click the 'Fork' button at the top right of the repository page to create a copy in your GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine using:
     ```bash
-    git clone https://github.com/thegeek36/My-React-Portfolio.git
+    git clone https://github.com/shaikh-vms/my-portfolio
     ```
 3. **Create a Branch**: Create a new branch for your feature or bug fix:
     ```bash
@@ -71,11 +71,11 @@ To get started with this portfolio:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/thegeek36/My-React-Portfolio.git
+    git clone https://github.com/shaikh-vms/my-portfolio
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd My-React-Portfolio
+    cd my-portfolio
     ```
 3. **Install Dependencies**:
     ```bash
@@ -85,7 +85,7 @@ To get started with this portfolio:
     ```bash
     npm run dev
     ```
-5. **Open Your Browser**: Go to `http://localhost:3000` to view the portfolio.
+5. **Open Your Browser**: Go to `http://localhost:5173` to view the portfolio.
 
 ---
 
