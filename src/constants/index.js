@@ -17,7 +17,7 @@ I also participate in RnD activities in company and hold TOP-GUN award from Digi
 export const EXPERIENCES = [
   {
     year: "FEB 2021 - Present",
-    role: "Senio Software Engineer",
+    role: "Senior Software Engineer",
     company: "Go Digit General Insurance",
     description: `Onboarded as a Graduate Trainee Engieer and promoted to SSE in last 4 Years. Here I specifically work on API developement built with JAVA/SPringBoot.By optimizing code and writing efficient scripts, I improved application performance by up to 30%. I maintain open communication with clients to understand and meet their evolving needs. Secured Prestigious TOP-GUN with other recognizations like Wall-Of-Awesomeess And Tech-Titan`,
     technologies: ["Java","Spring","SpringBoot","Redis"],
