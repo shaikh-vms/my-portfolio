@@ -92,7 +92,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind Css", "React",],
-    github : "https://github.com/thegeek36/My-React-Portfolio",
+    github : "https://github.com/shaikh-vms/my-portfolio",
     live : "#" ,
   },
 ];
