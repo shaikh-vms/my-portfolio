@@ -20,8 +20,9 @@ export const EXPERIENCES = [
     role: "Senio Software Engineer",
     company: "Go Digit General Insurance",
     description: `Onboarded as a Graduate Trainee Engieer and promoted to SSE in last 4 Years. Here I specifically work on API developement built with JAVA/SPringBoot.By optimizing code and writing efficient scripts, I improved application performance by up to 30%. I maintain open communication with clients to understand and meet their evolving needs. Secured Prestigious TOP-GUN with other recognizations like Wall-Of-Awesomeess And Tech-Titan`,
-    technologies: ["Java","Spring","SpringBoot","Redis","Kafka"],
-	technologies2: ["Docker", "SQL", "DB2", "ABS", "MAVEN", "Git", "JIRA", "BitBucket"]
+    technologies: ["Java","Spring","SpringBoot","Redis"],
+	technologies2: ["Kafka","Docker", "SQL", "DB2", "ABS"],
+	technologies3: ["MAVEN", "Git", "JIRA", "BitBucket"]
   }
 ];
 

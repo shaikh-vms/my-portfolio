@@ -29,6 +29,11 @@ const Experience = () => {
 					{experience.technologies2.map((tech,index) => (
                         <span key={index} className='mr-2 mt-4  rounded-md bg-neutral-900 p-2 px-2 py-1 font-medium text-purple-500'>{tech}</span>
                     ))}
+					<br></br>
+					<br></br>
+					{experience.technologies3.map((tech,index) => (
+                        <span key={index} className='mr-2 mt-4  rounded-md bg-neutral-900 p-2 px-2 py-1 font-medium text-purple-500'>{tech}</span>
+                    ))}
                 </motion.div>
             </div>
         ))} 
